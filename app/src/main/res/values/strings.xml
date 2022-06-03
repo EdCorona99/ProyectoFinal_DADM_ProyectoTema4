@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DADM_ProyectoTema4</string>
+    <string name="siguiente_actividad">Siguiente actividad</string>
+    <string name="crear_base_de_datos">Crear base de datos</string>
+    <string name="actividad_sensor">Actividad sensor</string>
+    <string name="actividad_db">actividad db</string>
+    <string name="actividad_json_xml">actividad json/xml</string>
+    <string name="actividad_sharedpreferences">actividad sharedpreferences</string>
+</resources>

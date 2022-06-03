@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ActivityPrincipal">
+
+    <Button
+        android:id="@+id/btnActSensor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/actividad_sensor" />
+
+    <Button
+        android:id="@+id/btnActDb"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/actividad_db" />
+
+    <Button
+        android:id="@+id/btnActJsonXml"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/actividad_json_xml"
+        android:text="@string/actividad_json_xml" />
+
+    <Button
+        android:id="@+id/btnActSahredPreferences"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/actividad_sharedpreferences" />
+</LinearLayout>
